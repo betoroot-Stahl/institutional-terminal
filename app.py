@@ -23,7 +23,7 @@ from datetime import datetime
 # AUTO REFRESH
 # =========================================================
 
-st_autorefresh(interval=300000, key="refresh")
+st_autorefresh(interval=3000, key="refresh")
 
 # =========================================================
 # CONFIG
